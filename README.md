@@ -1,1 +1,3 @@
-# leasta-tt
+# LESTA Test Task
+
+Это тестовое задание для компании LESTA.
